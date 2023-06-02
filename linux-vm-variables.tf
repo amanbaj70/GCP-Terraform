@@ -5,5 +5,5 @@
 variable "linux_instance_type" {
   type        = string
   description = "VM instance type"
-  default     = "f1-micro"
+  default     = "e2-standard-2"
 }

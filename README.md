@@ -27,6 +27,3 @@ The script will install Apache web server on the virtual machines for testing pu
 # Notes
 
 Create the .JSON file for authentication --> https://gmusumeci.medium.com/how-to-create-a-service-account-for-terraform-in-gcp-google-cloud-platform-f75a0cf918d1
-
-Blog --> https://gmusumeci.medium.com/how-to-deploy-an-ubuntu-linux-vm-instance-in-gcp-using-terraform-b94d0ed3a3a4
-

@@ -1,5 +1,6 @@
 # Local .terraform directories
 **/.terraform/*
+.terraform.*
 
 # .tfstate files
 *.tfstate
@@ -28,3 +29,8 @@ override.tf.json
 # Include tfplan files to ignore the plan output of command: terraform plan -out=tfplan
 # example: *tfplan*
 
+adminuser
+adminuser.pub
+agile-fort-385207-8d2ea31287c6.json
+
+*.gitignore
