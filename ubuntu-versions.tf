@@ -1,6 +1,7 @@
-#####################
-## Ubuntu Versions ##
-#####################
+###############################
+## Ubuntu Versions           ##
+## Maintainer - Aman Bajpai  ##
+###############################
 
 variable "ubuntu_1804_sku" {
   type        = string

@@ -1,6 +1,7 @@
-#############################
-## Application - Variables ##
-#############################
+###############################
+## Application - Variables   ##
+## Maintainer - Aman Bajpai  ##
+###############################
 
 # company name 
 variable "company" {

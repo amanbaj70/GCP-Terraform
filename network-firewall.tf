@@ -1,6 +1,7 @@
-###################################
-## Network Firewall Rules - Main ##
-###################################
+####################################
+## Network Firewall Rules - Main  ##
+## Maintainer - Aman Bajpai       ##
+####################################
 
 # Allow http
 resource "google_compute_firewall" "allow-http" {

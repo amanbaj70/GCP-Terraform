@@ -1,6 +1,7 @@
-#########################
-## GCP Provider - Main ##
-#########################
+###############################
+## GCP Provider - Main       ##
+## Maintainer - Aman Bajpai  ##
+###############################
 
 # Define Terraform provider
 terraform {

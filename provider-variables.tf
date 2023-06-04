@@ -1,6 +1,7 @@
-##############################
-## GCP Provider - Variables ##
-##############################
+###############################
+## GCP Provider - Variables  ##
+## Maintainer - Aman Bajpai  ##
+###############################
 
 # GCP authentication file
 variable "gcp_auth_file" {

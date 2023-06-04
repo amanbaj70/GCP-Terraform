@@ -1,6 +1,7 @@
-#########################
-## Network - Variables ##
-#########################
+###############################
+## Network - Variables       ##
+## Maintainer - Aman Bajpai  ##
+###############################
 
 variable "network-subnet-cidr" {
   type        = string

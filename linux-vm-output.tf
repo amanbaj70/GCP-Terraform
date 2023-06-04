@@ -1,6 +1,7 @@
-###########################
-## GCP Linux VM - Output ##
-###########################
+###############################
+## GCP Linux VM - Output     ##
+## Maintainer - Aman Bajpai  ##
+###############################
 
 output "vm-name" {
   value = google_compute_instance.vm_instance_public.name

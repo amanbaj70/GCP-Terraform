@@ -1,6 +1,7 @@
-####################
-## Network - Main ##
-####################
+###############################
+## Network - Main            ##
+## Maintainer - Aman Bajpai  ##
+###############################
 
 # create VPC
 resource "google_compute_network" "vpc" {

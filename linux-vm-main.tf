@@ -1,6 +1,7 @@
-#########################
-## GCP Linux VM - Main ##
-#########################
+###############################
+## GCP Linux VM - Main       ##
+## Maintainer - Aman Bajpai  ##
+###############################
 
 # Terraform plugin for creating random ids
 resource "random_id" "instance_id" {
